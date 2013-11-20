@@ -1,0 +1,18 @@
+<!doctype html>
+<html ng-app="app">
+  <head>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.1/angular.min.js"></script>
+    <script src="scripts.js"></script>
+  </head>
+  <body>
+    
+    <simple-color-picker width="300" height="300" ng-model="color"></simple-color-picker>
+
+    <div>Hex: {{color.hex}}</div>
+    <div>Red: {{color.rgb.r}}</div>
+    <div>Green: {{color.rgb.g}}</div>
+    <div>Blue: {{color.rgb.b}}</div>
+    <div style="width: 100px; height: 50px; background-color: {{color.hex}}"></div>
+
+  </body>
+</html>
