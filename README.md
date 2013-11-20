@@ -2,7 +2,7 @@ angular-simple-color-picker
 ===========================
 A simple angular.js color picker directive.  A color picker is drawn directly into the element without show/hide functionality.  User selections update color model with hexidecimal and RGB values.
 
-Demo: [bbrewer97202.github.io/angular-simple-color-picker/index.html](bbrewer97202.github.io/angular-simple-color-picker/index.html).
+Demo: [http://bbrewer97202.github.io/angular-simple-color-picker/index.html](http://bbrewer97202.github.io/angular-simple-color-picker/index.html).
 
 ##Installation
 Install dependencies (only angular.js) by running:
