@@ -1,0 +1,27 @@
+{
+  "name": "angular-color-picker",
+  "version": "0.0.0",
+  "authors": [
+    "Ben Brewer <bbrewer97202@gmail.com>"
+  ],
+  "description": "Angular color picker directive",
+  "keywords": [
+    "angular",
+    "color",
+    "color",
+    "picker",
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.1"
+  }
+}
